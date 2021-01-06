@@ -8,6 +8,6 @@ public class Comment {
     private String author;
     private Date data;
     private int answerCount;
-    
+
 
 }
